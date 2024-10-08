@@ -1,0 +1,9 @@
+build/
+coverage/
+keys/
+logs/
+/node_modules
+./dist
+*.md
+.env
+.env.*
